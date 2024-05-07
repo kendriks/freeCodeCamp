@@ -18,18 +18,18 @@ Os projetos de certificação, somados, permite que seja possível obter o certi
 4. Aprenda acessibilidade criando um questionário
 - Projeto de Certificação: **Página de tributo**
 
-  ### Bloco 3
-  1. Aprenda mais sobre pseudosseletore de CSS criando uma folha de saldo
-  2. Aprenda CSS intermediário criando a pintura de um gato
-  3. Aprenda design responsivo para web criando um piano
-  - Projeto de Certificação: **Página de documentação técnica**
+### Bloco 3
+1. Aprenda mais sobre pseudosseletore de CSS criando uma folha de saldo
+2. Aprenda CSS intermediário criando a pintura de um gato
+3. Aprenda design responsivo para web criando um piano
+- Projeto de Certificação: **Página de documentação técnica**
  
-  ### Bloco 4
-  1. Aprenda variáveis em CSS criando o horizonte em uma cidade
-  2. Aprenda sobre CSS Grid criando uma revista
-  - Projeto de Certificação: **Página inicial para um produto**
+### Bloco 4
+1. Aprenda variáveis em CSS criando o horizonte em uma cidade
+2. Aprenda sobre CSS Grid criando uma revista
+- Projeto de Certificação: **Página inicial para um produto**
  
-  ### Bloco 5
-  1. Aprenda animação em CSS construindo uma roda gigante
-  2. Aprenda transformações em CSS criando um pinguin
-  - Projeto de Certificação: **Página de portfólio pessoal** 
+### Bloco 5
+1. Aprenda animação em CSS construindo uma roda gigante
+2. Aprenda transformações em CSS criando um pinguin
+- Projeto de Certificação: **Página de portfólio pessoal** 
